@@ -1,0 +1,9 @@
+# Virtual environments and IDE files
+.venv/
+venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
+*.pyc
